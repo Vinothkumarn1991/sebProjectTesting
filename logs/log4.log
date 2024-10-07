@@ -1,0 +1,259 @@
+15:31:19.263 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+15:31:25.662 [main] INFO  - *****Starting TC002_LoginTest 
+15:32:04.955 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+15:32:11.223 [main] INFO  - *****Starting TC002_LoginTest 
+15:33:50.267 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+15:34:00.311 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+13:00:50.076 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+13:01:18.997 [main] INFO  - *****Starting TC002_LoginTest 
+13:02:11.446 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+13:02:22.847 [main] INFO  - User is started to registered the application
+13:02:22.892 [main] INFO  - User is enter the user name and passowrd
+13:02:23.709 [main] INFO  - User is naviage to Homepage
+13:02:23.753 [main] INFO  - validae registration
+13:02:31.062 [main] INFO  - Testing is finished 
+13:02:45.709 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+13:02:54.340 [main] INFO  - User is started to registered the application
+13:02:54.371 [main] INFO  - User is enter the user name and passowrd
+13:02:54.941 [main] INFO  - User is naviage to Homepage
+13:02:54.972 [main] INFO  - validae registration
+13:03:02.233 [main] INFO  - Testing is finished 
+13:03:10.283 [main] INFO  - *****Starting TC002_LoginTest 
+23:54:15.736 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+23:54:28.260 [main] INFO  - User is started to registered the application
+23:54:28.274 [main] INFO  - User is enter the user name and passowrd
+23:54:28.809 [main] INFO  - User is naviage to Homepage
+23:54:28.834 [main] INFO  - validae registration
+23:54:35.847 [main] INFO  - Testing is finished 
+23:54:42.953 [main] INFO  - *****Starting TC002_LoginTest 
+23:56:44.698 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+23:56:51.806 [main] INFO  - User is started to registered the application
+23:56:51.819 [main] INFO  - User is enter the user name and passowrd
+23:56:52.377 [main] INFO  - User is naviage to Homepage
+23:56:52.407 [main] INFO  - validae registration
+23:56:59.382 [main] INFO  - Testing is finished 
+23:57:05.748 [main] INFO  - *****Starting TC002_LoginTest 
+00:08:19.032 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+00:08:26.948 [main] INFO  - User is started to registered the application
+00:08:26.974 [main] INFO  - User is enter the user name and passowrd
+00:08:27.514 [main] INFO  - User is naviage to Homepage
+00:08:27.538 [main] INFO  - validae registration
+00:08:34.704 [main] INFO  - Testing is finished 
+00:08:42.237 [main] INFO  - *****Starting TC002_LoginTest 
+00:12:54.178 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+00:13:01.759 [main] INFO  - User is started to registered the application
+00:13:01.793 [main] INFO  - User is enter the user name and passowrd
+00:13:02.453 [main] INFO  - User is naviage to Homepage
+00:13:02.485 [main] INFO  - validae registration
+00:13:09.497 [main] INFO  - Testing is finished 
+00:13:17.356 [main] INFO  - *****Starting TC002_LoginTest 
+00:27:09.257 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\test-output\testng-failed.xml
+
+00:27:18.231 [main] INFO  - *****Starting TC002_LoginTest 
+00:34:38.690 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+00:34:46.228 [main] INFO  - User is started to registered the application
+00:34:46.262 [main] INFO  - User is enter the user name and passowrd
+00:34:46.909 [main] INFO  - User is naviage to Homepage
+00:34:46.947 [main] INFO  - validae registration
+00:34:54.199 [main] INFO  - Testing is finished 
+00:35:01.982 [main] INFO  - *****Starting TC002_LoginTest 
+00:37:20.144 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+00:37:27.533 [main] INFO  - User is started to registered the application
+00:37:27.575 [main] INFO  - User is enter the user name and passowrd
+00:37:28.234 [main] INFO  - User is naviage to Homepage
+00:37:28.267 [main] INFO  - validae registration
+00:37:35.520 [main] INFO  - Testing is finished 
+00:37:42.952 [main] INFO  - *****Starting TC002_LoginTest 
+00:41:58.693 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+00:42:06.470 [main] INFO  - User is started to registered the application
+00:42:06.505 [main] INFO  - User is enter the user name and passowrd
+00:42:07.382 [main] INFO  - User is naviage to Homepage
+00:42:07.428 [main] INFO  - validae registration
+00:42:14.507 [main] INFO  - Testing is finished 
+00:42:22.347 [main] INFO  - *****Starting TC002_LoginTest 
+00:50:06.363 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+00:50:16.655 [main] INFO  - User is started to registered the application
+00:50:16.684 [main] INFO  - User is enter the user name and passowrd
+00:50:17.481 [main] INFO  - User is naviage to Homepage
+00:50:17.513 [main] INFO  - validae registration
+00:50:24.693 [main] INFO  - Testing is finished 
+00:50:33.057 [main] INFO  - *****Starting TC002_LoginTest 
+23:03:48.294 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+23:04:00.052 [main] INFO  - User is started to vote
+23:04:00.106 [main] INFO  - User is enter the user name and passowrd
+23:04:10.256 [main] ERROR - Test failed 
+23:08:21.131 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+23:08:29.774 [main] INFO  - User is started to vote
+23:08:29.812 [main] INFO  - User is enter the user name and passowrd
+23:08:39.953 [main] ERROR - Test failed 
+23:10:38.945 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+23:10:47.969 [main] INFO  - User is started to vote
+23:10:48.004 [main] INFO  - User is enter the user name and passowrd
+23:10:58.143 [main] ERROR - Test failed 
+23:15:21.846 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+23:15:31.675 [main] INFO  - User is started to vote
+23:15:31.715 [main] INFO  - User is enter the user name and passowrd
+23:16:01.875 [main] ERROR - Test failed 
+23:21:54.543 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+23:22:01.988 [main] INFO  - User is started to vote
+23:22:02.033 [main] INFO  - User is enter the user name and passowrd
+23:22:32.288 [main] ERROR - Test failed 
+23:30:10.891 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+23:30:19.224 [main] INFO  - User is started to vote
+23:30:19.283 [main] INFO  - User is enter the user name and passowrd
+23:30:49.429 [main] ERROR - Test failed 
+23:31:38.328 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+23:31:44.774 [main] INFO  - User is started to vote
+23:31:44.813 [main] INFO  - User is enter the user name and passowrd
+23:32:15.022 [main] ERROR - Test failed 
+23:40:18.652 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+23:40:27.060 [main] INFO  - User is started to vote
+23:40:27.105 [main] INFO  - User is enter the user name and passowrd
+23:40:28.269 [main] ERROR - Test failed 
+23:41:21.907 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+23:41:30.534 [main] INFO  - User is started to vote
+23:41:30.568 [main] INFO  - User is enter the user name and passowrd
+23:41:51.727 [main] ERROR - Test failed 
+23:44:45.964 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+23:44:55.274 [main] INFO  - User is started to vote
+23:44:55.306 [main] INFO  - User is enter the user name and passowrd
+23:45:25.375 [main] ERROR - Test failed 
+09:18:21.542 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+09:21:02.559 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+09:21:12.114 [main] INFO  - User is started to vote
+09:21:12.154 [main] INFO  - User is enter the user name and passowrd
+09:21:42.218 [main] ERROR - Test failed 
+09:23:07.887 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+09:23:14.652 [main] INFO  - User is started to vote
+09:23:14.715 [main] INFO  - User is enter the user name and passowrd
+09:23:44.780 [main] ERROR - Test failed 
+09:35:10.595 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+09:35:17.943 [main] INFO  - User is started to vote
+09:35:17.979 [main] INFO  - User is enter the user name and passowrd
+09:35:48.079 [main] ERROR - Test failed 
+09:39:31.287 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+09:39:40.168 [main] INFO  - User is started to vote
+09:39:40.216 [main] INFO  - User is enter the user name and passowrd
+09:40:10.335 [main] ERROR - Test failed 
+09:55:51.185 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+09:55:57.330 [main] INFO  - User is started to vote
+09:55:57.369 [main] INFO  - User is enter the user name and passowrd
+09:56:27.644 [main] ERROR - Test failed 
+10:04:45.484 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+10:04:53.749 [main] INFO  - User is started to vote
+10:04:53.781 [main] INFO  - User is enter the user name and passowrd
+10:05:24.052 [main] ERROR - Test failed 
+10:16:28.870 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+10:16:36.672 [main] INFO  - User is started to vote
+10:16:36.707 [main] INFO  - User is enter the user name and passowrd
+10:17:06.933 [main] ERROR - Test failed 
+10:28:22.120 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+10:28:29.309 [main] INFO  - User is started to vote
+10:28:29.337 [main] INFO  - User is enter the user name and passowrd
+10:28:59.578 [main] ERROR - Test failed 
+10:43:37.514 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+10:43:45.040 [main] INFO  - User is started to registered the application
+10:43:45.064 [main] INFO  - User is enter the user name and passowrd
+10:43:45.614 [main] INFO  - User is naviage to Homepage
+10:43:45.636 [main] INFO  - validae registration
+10:43:52.633 [main] INFO  - Testing is finished 
+10:43:59.978 [main] INFO  - *****Starting TC002_LoginTest 
+11:06:49.022 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Documents\SEB Project Updated\RD Project\RD PROJECT\sebProjectTesting\grouping.xml
+
+11:06:56.590 [main] INFO  - User is started to registered the application
+11:06:56.604 [main] INFO  - User is enter the user name and passowrd
+11:06:57.240 [main] INFO  - User is naviage to Homepage
+11:06:57.268 [main] INFO  - validae registration
+11:07:04.421 [main] INFO  - Testing is finished 
+11:07:12.770 [main] INFO  - *****Starting TC002_LoginTest 
+11:09:08.202 [main] INFO  - [TestNG] Running:
+  C:\Users\vinothkumar.n\Downloads\Exhibition Skoch\grouping.xml
+
+11:09:16.879 [main] INFO  - User is started to vote
+11:09:16.943 [main] INFO  - User is enter the user name and passowrd
+11:09:37.194 [main] ERROR - Test failed 
+01:46:04.298 [main] INFO  - *****Starting TC002_LoginTest 
+01:47:43.442 [main] INFO  - User is started to registered the application
+01:47:43.478 [main] INFO  - User is enter the user name and passowrd
+01:47:44.440 [main] INFO  - User is naviage to Homepage
+01:47:44.491 [main] INFO  - validae registration
+01:47:51.663 [main] INFO  - Testing is finished 
+01:48:00.851 [main] INFO  - *****Starting TC002_LoginTest 
+02:37:25.237 [main] INFO  - User is started to registered the application
+02:37:25.278 [main] INFO  - User is enter the user name and passowrd
+02:37:26.211 [main] INFO  - User is naviage to Homepage
+02:37:26.273 [main] INFO  - validae registration
+02:37:33.387 [main] INFO  - Testing is finished 
+02:37:43.592 [main] INFO  - *****Starting TC002_LoginTest 
